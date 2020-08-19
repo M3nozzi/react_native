@@ -27,4 +27,4 @@ In each test, you have a brief description of what your application must do in o
 This project is under license from MIT. See the archive [LICENSE](LICENSE) to more details.
 
 ---
-Made with 💜   by <a href="https://www.linkedin.com/in/menozzi-fabio" target="_blank">Fabio Menozzi</a>
+Made with 💜  by <a href="https://www.linkedin.com/in/menozzi-fabio" target="_blank">Fabio Menozzi</a>
